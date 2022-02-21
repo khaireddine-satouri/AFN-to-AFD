@@ -2,11 +2,6 @@
 #include <string.h>
 #include <stdlib.h>
 
-/*
-KALAI Mohamed Hedi
-SATOURI Khaireddine
-L3 Informatique
-*/
 
 typedef struct AFN_Entree {
     int final;
